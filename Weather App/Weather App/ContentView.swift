@@ -20,7 +20,7 @@ struct ContentView: View {
             
             
             VStack{
-                
+                Text("Cupertino, CA")
                 
                 
                 VStack{
